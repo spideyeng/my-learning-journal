@@ -1,4 +1,4 @@
-name: dagster
+name: dagster_spideyenv
 channels:
   - defaults
 dependencies:

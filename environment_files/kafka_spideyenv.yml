@@ -1,4 +1,4 @@
-name: kafka
+name: kafka_spideyenv
 channels:
   - conda-forge
   - defaults

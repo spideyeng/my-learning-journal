@@ -1,4 +1,4 @@
-name: pds
+name: pds_spideyenv
 channels:
   - defaults
 dependencies:

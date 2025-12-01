@@ -1,4 +1,4 @@
-name: elt
+name: elt_spideyenv
 channels:
   - conda-forge
   - defaults

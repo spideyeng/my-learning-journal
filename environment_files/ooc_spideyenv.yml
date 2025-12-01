@@ -1,4 +1,4 @@
-name: ooc
+name: ooc_spideyenv
 channels:
   - conda-forge
   - defaults
