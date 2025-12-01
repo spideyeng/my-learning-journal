@@ -1,0 +1,4 @@
+name: bds
+channels:
+  - defaults
+prefix: /home/engpookw/miniconda3/envs/bds
